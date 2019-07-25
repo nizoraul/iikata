@@ -67,3 +67,7 @@ gem 'comment_attribute'
 group :development, :test do
   gem 'rspec-rails', '~> 3.8'
 end
+
+# css framewwork
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons'
