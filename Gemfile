@@ -71,3 +71,6 @@ end
 # css framewwork
 gem 'materialize-sass', '~> 1.0.0'
 gem 'material_icons'
+
+# solargraph
+gem 'solargraph', group: :development
