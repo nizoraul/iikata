@@ -74,3 +74,6 @@ gem 'material_icons'
 
 # solargraph
 gem 'solargraph', group: :development
+
+# html wrapper
+gem 'slim'
